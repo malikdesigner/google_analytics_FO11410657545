@@ -1,0 +1,83 @@
+2025-08-21 23:30:46,684 - INFO - 🔄 Using fallback implementations
+2025-08-21 23:30:46,695 - INFO - Loaded 3 search tasks from searches.json
+2025-08-21 23:30:46,695 - INFO - Validated 3 search tasks
+2025-08-21 23:30:46,696 - INFO - Starting 3 search simulations with fixed model integration
+2025-08-21 23:30:46,696 - INFO - Models available: False
+2025-08-21 23:30:46,696 - INFO - 
+Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-21 23:30:46,696 - INFO - Using persona: Dr. Academic (researcher)
+2025-08-21 23:30:46,696 - INFO - Starting search session with Dr. Academic
+2025-08-21 23:30:46,696 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-21 23:30:46,702 - INFO - Models integrated: False
+2025-08-21 23:30:47,347 - WARNING - playwright-stealth not available
+2025-08-21 23:31:02,436 - INFO - Navigating to Google
+2025-08-21 23:31:07,495 - INFO - Performing search for: 'supply list 2024-2025'
+2025-08-21 23:31:08,555 - ERROR - Search session failed: 'Keyboard' object has no attribute 'key_down'
+2025-08-21 23:31:09,145 - INFO - ❌ Failed: 'Keyboard' object has no attribute 'key_down'
+2025-08-21 23:31:09,145 - INFO - Waiting 210s before next search...
+2025-08-21 23:33:18,311 - INFO - 🔄 Using fallback implementations
+2025-08-21 23:33:18,311 - INFO - Loaded 3 search tasks from searches.json
+2025-08-21 23:33:18,312 - INFO - Validated 3 search tasks
+2025-08-21 23:33:18,312 - INFO - Starting 3 search simulations with fixed model integration
+2025-08-21 23:33:18,312 - INFO - Models available: False
+2025-08-21 23:33:18,312 - INFO - 
+Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-21 23:33:18,313 - INFO - Using persona: Dr. Academic (researcher)
+2025-08-21 23:33:18,313 - INFO - Starting search session with Dr. Academic
+2025-08-21 23:33:18,313 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-21 23:33:18,313 - INFO - Models integrated: False
+2025-08-21 23:33:18,329 - WARNING - playwright-stealth not available
+2025-08-21 23:33:19,303 - INFO - Navigating to Google
+2025-08-21 23:33:25,787 - INFO - Performing search for: 'supply list 2024-2025'
+2025-08-21 23:33:30,921 - INFO - Analyzing SERP with models
+2025-08-21 23:33:38,192 - INFO - Visiting target site with model-enhanced behavior
+2025-08-21 23:33:39,345 - INFO - Reached: https://www.google.com/search?q=supply+list+2024-2025&sca_esv=fd62a53945ec0901&source=hp&ei=b2anaOzmD8qYkdUP3ZuRwQk&iflsig=AOw8s4IAAAAAaKd0f10JBWHbQtyGJR5FRavBJSwF6XPA&ved=0ahUKEwis2pyWxZyPAxVKTKQEHd1NJJgQ4dUDCA0&uact=5&oq=supply+list+2024-2025&gs_lp=Egdnd3Mtd2l6IhVzdXBwbHkgbGlzdCAyMDI0LTIwMjUyBRAAGO8FMggQABiABBiiBDIIEAAYogQYiQUyCBAAGIAEGKIESOkmULEHWLAlcAF4AJABAJgBnQKgAYokqgEEMi0yMLgBA8gBAPgBAZgCFaACwiSoAgrCAgoQLhgDGOoCGI8BwgIKEAAYAxjqAhiPAcICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAgsQABiABBixAxiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIIEC4YgAQYsQPCAgUQABiABMICDhAAGIAEGLEDGIMBGIoFwgILEC4YgAQYsQMY1ALCAhEQLhiABBixAxiDARjHARivAcICChAAGIAEGEYY_wHCAgYQABgWGB7CAggQABgWGAoYHpgDBPEF2_6HOzpb-EiSBwYxLjAuMjCgB596sgcEMi0yMLgHviTCBwgzLjE0LjMuMcgHMA&sclient=gws-wiz&sei=emanaOaWHcC49u8Pp5XeyAo&zx=1755801212998&no_sw_cr=1
+2025-08-21 23:33:39,375 - INFO - Executing 422s of model-enhanced browsing
+2025-08-21 23:33:59,153 - INFO - USimAgent decided to stop browsing
+2025-08-21 23:33:59,154 - INFO - Completed model browsing with 7 activities
+2025-08-21 23:33:59,155 - INFO - Search session completed: ✅ SUCCESS
+2025-08-21 23:33:59,702 - INFO - ✅ Success: 40.8s
+2025-08-21 23:33:59,704 - INFO - 🔄 Used fallback implementations
+2025-08-21 23:33:59,706 - INFO - Waiting 204s before next search...
+2025-08-21 23:37:23,721 - INFO - 
+Search 2/3: 'causes lip swelling smileee' -> https://smileee.co.uk/
+2025-08-21 23:37:23,722 - INFO - Using persona: Business Professional (professional)
+2025-08-21 23:37:23,722 - INFO - Starting search session with Business Professional
+2025-08-21 23:37:23,722 - INFO - Query: 'causes lip swelling smileee' -> Target: https://smileee.co.uk/
+2025-08-21 23:37:23,723 - INFO - Models integrated: False
+2025-08-21 23:37:23,724 - WARNING - playwright-stealth not available
+2025-08-21 23:37:24,610 - INFO - Navigating to Google
+2025-08-21 23:37:31,037 - INFO - Performing search for: 'causes lip swelling smileee'
+2025-08-21 23:37:38,614 - INFO - Analyzing SERP with models
+2025-08-21 23:37:48,872 - INFO - Visiting target site with model-enhanced behavior
+2025-08-21 23:37:51,367 - INFO - Reached: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dcauses%2Blip%2Bswelling%2Bsmileee%26sca_esv%3Dfd62a53945ec0901%26source%3Dhp%26ei%3DZGenaIHqLuXskdUPwOfUiQY%26oq%3Dcauses%2Blip%2Bswelling%2Bsmileee%26gs_lp%3DEhFtb2JpbGUtZ3dzLXdpei1ocCIbY2F1c2VzIGxpcCBzd2VsbGluZyBzbWlsZWVlMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI4zlQqgpYqjhwAngAkAEAmAHGAqABqi6qAQgwLjEuMjQuMbgBA8gBAPgBAZgCHKAC1y6oAg_CAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGIMBGIoFwgILEAAYgAQYsQMYigXCAggQLhiABBixA8ICBRAAGIAEwgIHEAAYgAQYCsICChAAGIAEGLEDGArCAgYQABgWGB7CAgsQABiABBiGAxiKBcICBRAhGJ8FmAMD8QX6Bhn4AMcxMpIHCDIuMC4yNS4xoAfhkgGyBwYyLTI1LjG4B9EuwgcGMi4yNS4xyAcq%26sclient%3Dmobile-gws-wiz-hp%26sei%3DcmenaMKvCd2I9u8Pi7nUgAI&q=EgS2tzoPGPLOncUGIjBnEn_bJFa_Q-3nGRTytUSF1NsvG2jHiUuWIVDGhk5rHqN0wLNz1Wl2C3hl_sBgqJUyAVJaAUM
+2025-08-21 23:37:51,382 - INFO - Executing 208s of model-enhanced browsing
+2025-08-21 23:39:10,879 - INFO - Completed model browsing with 16 activities
+2025-08-21 23:39:10,879 - INFO - Search session completed: ✅ SUCCESS
+2025-08-21 23:39:11,704 - INFO - ✅ Success: 107.2s
+2025-08-21 23:39:11,704 - INFO - 🔄 Used fallback implementations
+2025-08-21 23:39:11,705 - INFO - Waiting 170s before next search...
+2025-08-24 00:56:22,869 - INFO - 🔄 Using fallback implementations
+2025-08-24 00:56:22,872 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-24 00:56:22,873 - INFO - Validated 3 search tasks
+2025-08-24 00:56:22,873 - INFO - Starting 3 search simulations with fixed model integration
+2025-08-24 00:56:22,873 - INFO - Models available: False
+2025-08-24 00:56:22,873 - INFO - 
+Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-24 00:56:22,873 - INFO - Using persona: Business Professional (professional)
+2025-08-24 00:56:22,873 - INFO - Starting search session with Business Professional
+2025-08-24 00:56:22,874 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-24 00:56:22,874 - INFO - Models integrated: False
+2025-08-24 00:56:23,137 - WARNING - playwright-stealth not available
+2025-08-24 00:56:34,219 - INFO - Navigating to Google
+2025-08-24 00:56:40,280 - INFO - Performing search for: 'supply list 2024-2025'
+2025-08-24 00:56:46,719 - INFO - Analyzing SERP with models
+2025-08-24 00:56:53,803 - INFO - Visiting target site with model-enhanced behavior
+2025-08-24 00:56:55,581 - INFO - Reached: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsupply%2Blist%2B2024-2025%26sca_esv%3Dd4c3277b19e45af9%26source%3Dhp%26ei%3D8RyqaLOMJpL-7_UP5riA-AI%26oq%3Dsupply%2Blist%2B2024-2025%26gs_lp%3DEhFtb2JpbGUtZ3dzLXdpei1ocCIVc3VwcGx5IGxpc3QgMjAyNC0yMDI1MgUQABjvBTIIEAAYgAQYogQyCBAAGKIEGIkFMggQABiABBiiBEjKMFCQCliSL3ACeACQAQCYAbcCoAHEIqoBCDAuMi4xNy4xuAEDyAEA-AEBmAIWoALjIqgCD8ICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIIEAAYgAQYsQPCAgQQABgDwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICCxAAGIAEGLEDGIoFwgIFEAAYgATCAgsQLhiABBixAxjUAsICCBAuGIAEGLEDwgIOEC4YgAQYsQMYxwEYrwHCAg0QABiABBhGGP8BGKMFwgIQEAAYgAQYRhj_ARiMBdgBAcICBhAAGBYYHsICCBAAGBYYChgemAMD8QWOWSw_J3E_HroGBAgBGBOSBwgyLjIuMTcuMaAHxV6yBwgwLjIuMTcuMbgH3iLCBwcxMS4xMC4xyAcd%26sclient%3Dmobile-gws-wiz-hp%26sei%3D_RyqaPCQJbb97_UP3LKakQo&q=EgS2tzoPGP65qMUGIjDJno3iNGWYKpmWkBx18U7u-0yfCYM5T_jZ5HhRyVvPD__B9kJzX38YmvCpDpY9RS4yAVJaAUM
+2025-08-24 00:56:55,595 - INFO - Executing 85s of model-enhanced browsing
+2025-08-24 00:57:26,744 - INFO - USimAgent decided to stop browsing
+2025-08-24 00:57:26,745 - INFO - Completed model browsing with 8 activities
+2025-08-24 00:57:26,745 - INFO - Search session completed: ✅ SUCCESS
+2025-08-24 00:57:27,049 - INFO - ✅ Success: 63.9s
+2025-08-24 00:57:27,049 - INFO - 🔄 Used fallback implementations
+2025-08-24 00:57:27,050 - INFO - Waiting 192s before next search...

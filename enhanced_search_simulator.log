@@ -1,0 +1,210 @@
+2025-08-17 00:42:29,952 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-17 00:42:29,952 - INFO - Validated 3 search tasks
+2025-08-17 00:42:29,952 - INFO - Starting 3 enhanced AI-driven search simulations
+2025-08-17 00:42:29,952 - INFO - Using 6 different personas
+2025-08-17 00:42:29,953 - INFO - 
+Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-17 00:42:29,953 - INFO - Using persona: Casual Surfer (casual_browser)
+2025-08-17 00:42:29,953 - INFO - Starting enhanced search session with Casual Surfer persona
+2025-08-17 00:42:29,953 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-17 00:42:29,970 - WARNING - playwright-stealth not available
+2025-08-17 00:42:31,030 - INFO - Enhanced navigation to Google
+2025-08-17 00:42:35,714 - INFO - Enhanced search performance for: 'supply list 2024-2025'
+2025-08-17 00:42:42,557 - INFO - Enhanced SERP interaction with AI analysis
+2025-08-17 00:43:29,358 - INFO - AI-assisted search for target: getschoolsupplieslist.com
+2025-08-17 00:43:29,783 - INFO - Target found via semantic content analysis
+2025-08-17 00:43:32,795 - INFO - Attempting enhanced click on: https://getschoolsupplieslist.com/
+2025-08-17 00:43:41,562 - INFO - Enhanced target site visit: https://getschoolsupplieslist.com/
+2025-08-17 00:43:43,048 - INFO - Successfully reached: https://getschoolsupplieslist.com/
+2025-08-17 00:43:43,159 - INFO - Executing 145s of intelligent browsing
+2025-08-17 00:46:28,725 - INFO - Completed intelligent browsing with 4 activities
+2025-08-17 00:46:28,725 - INFO - Enhanced search session completed: True
+2025-08-17 00:46:29,385 - INFO - ✓ Success: 238.8s, 3 patterns
+2025-08-17 00:46:29,385 - INFO -   Final state: interest=0.10, fatigue=0.18
+2025-08-17 00:46:29,385 - INFO - Waiting 175s before next search (dynamic scheduling)...
+2025-08-17 00:49:24,398 - INFO - 
+Search 2/3: 'causes lip swelling smileee' -> https://smileee.co.uk/
+2025-08-17 00:49:24,399 - INFO - Using persona: Business Professional (professional)
+2025-08-17 00:49:24,400 - INFO - Starting enhanced search session with Business Professional persona
+2025-08-17 00:49:24,400 - INFO - Query: 'causes lip swelling smileee' -> Target: https://smileee.co.uk/
+2025-08-17 00:49:24,400 - WARNING - playwright-stealth not available
+2025-08-17 00:49:25,426 - INFO - Enhanced navigation to Google
+2025-08-17 00:49:30,885 - INFO - Enhanced search performance for: 'causes lip swelling smileee'
+2025-08-17 00:49:41,604 - INFO - Enhanced SERP interaction with AI analysis
+2025-08-17 00:50:29,436 - INFO - AI-assisted search for target: smileee.co.uk
+2025-08-17 00:50:29,450 - WARNING - Target smileee.co.uk not found with AI assistance
+2025-08-17 00:50:29,450 - WARNING - Target smileee.co.uk not found - implementing fallback strategies
+2025-08-17 00:50:29,452 - INFO - Enhanced target site visit: https://smileee.co.uk/
+2025-08-17 00:50:31,087 - WARNING - Navigation verification failed
+2025-08-17 00:50:31,087 - INFO - Enhanced search session completed: False
+2025-08-17 00:50:31,546 - INFO - ✗ Failed: Unknown error
+2025-08-17 00:50:31,547 - INFO - Waiting 201s before next search (dynamic scheduling)...
+2025-08-17 01:50:45,321 - INFO - Starting enhanced search session with Dr. Academic persona
+2025-08-17 01:50:45,321 - INFO - Query: 'supply list 2024-2025' -> Target: getschoolsupplieslist.com
+2025-08-17 01:50:45,859 - WARNING - playwright-stealth not available
+2025-08-17 01:51:00,943 - INFO - Enhanced navigation to Google
+2025-08-17 01:51:05,703 - INFO - Enhanced search performance for: 'supply list 2024-2025'
+2025-08-17 01:51:13,417 - INFO - Enhanced SERP interaction with AI analysis
+2025-08-17 01:51:50,647 - INFO - AI-assisted search for target: 
+2025-08-17 01:51:51,533 - INFO - Target found via semantic content analysis
+2025-08-17 01:51:58,304 - INFO - Attempting enhanced click on: https://www.dallasisd.org/parents-students/back-to-school/suggested-school-supply-list
+2025-08-17 01:52:52,816 - INFO - Enhanced target site visit: getschoolsupplieslist.com
+2025-08-17 01:52:54,031 - INFO - Successfully reached: https://www.dallasisd.org/parents-students/back-to-school/suggested-school-supply-list
+2025-08-17 01:52:54,174 - INFO - Executing 427s of intelligent browsing
+2025-08-17 01:54:56,043 - INFO - Completed intelligent browsing with 10 activities
+2025-08-17 01:54:56,043 - INFO - Enhanced search session completed: True
+2025-08-23 20:06:51,645 - INFO - 🔄 Using enhanced fallback implementations
+2025-08-23 20:06:51,664 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-23 20:06:51,664 - INFO - Validated 3 search tasks
+2025-08-23 20:06:51,665 - INFO - Starting 3 enhanced search simulations
+2025-08-23 20:06:51,665 - INFO - Models available: False
+2025-08-23 20:06:51,665 - INFO - Enhanced features: Human-like hovering, realistic browsing patterns
+2025-08-23 20:06:51,665 - INFO - 
+============================================================
+2025-08-23 20:06:51,665 - INFO - Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-23 20:06:51,665 - INFO - Persona: Casual Surfer (casual_browser)
+2025-08-23 20:06:51,665 - INFO - Traits: fast browsing, 0.6 hover tendency
+2025-08-23 20:06:51,665 - INFO - Starting enhanced search session with Casual Surfer
+2025-08-23 20:06:51,666 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-23 20:06:51,666 - INFO - Persona traits: fast speed, short attention
+2025-08-23 20:07:01,985 - INFO - Navigating to Google with human-like timing
+2025-08-23 20:07:09,274 - INFO - Performing enhanced search for: 'supply list 2024-2025'
+2025-08-23 20:07:17,926 - INFO - Analyzing SERP with enhanced human-like behavior
+2025-08-23 20:07:34,778 - INFO - Visiting target site with enhanced human-like behavior
+2025-08-23 20:07:37,941 - INFO - Reached: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsupply%2Blist%2B2024-2025%26sca_esv%3D2df61ded53f7a9a5%26source%3Dhp%26ei%3DFdmpaIapIsCokdUPkMTpoAc%26oq%3Dsupply%2Blist%2B2024-2025%26gs_lp%3DEhFtb2JpbGUtZ3dzLXdpei1ocCIVc3VwcGx5IGxpc3QgMjAyNC0yMDI1SMc_UJwJWJ4ycAJ4AJABAJgBjQKgAZwlqgEEMi0yMbgBA8gBAPgBAZgCFqAC6yOoAg_CAgoQABgDGOoCGI8BwgIEEAAYA8ICCBAAGIAEGLEDwgIOEAAYgAQYsQMYgwEYigXCAgsQABiABBixAxiDAcICCxAAGIAEGLEDGIoFwgIFEAAYgATCAgsQLhiABBixAxjUAsICCBAuGIAEGLEDwgIOEC4YgAQYsQMYxwEYrwHCAg0QABiABBhGGP8BGKMFwgIQEAAYgAQYRhj_ARiMBdgBAcICBhAAGBYYHsICCBAAGBYYChgewgIFEAAY7wXCAggQABiABBiiBMICCBAAGKIEGIkFmAMD8QXhE2W4dm55L7oGBAgBGBOSBwYyLjAuMjCgB_lesgcEMi0yMLgH5iPCBwgyLjE4LjEuMcgHLA%26sclient%3Dmobile-gws-wiz-hp%26sei%3DJdmpaNOAAtDoi-gP25HUsAI&q=EgS2tzoPGKWyp8UGIjDdyAT3YrnuvhCqu3CpCpjPwkffDdSqSyUmmJoI_OQGoPZgHQ2RMGXNJmFf3JQWqf0yAVJaAUM
+2025-08-23 20:07:38,005 - INFO - Executing 46s of enhanced human-like browsing
+2025-08-23 20:08:08,492 - INFO - Enhanced USimAgent decided to stop browsing
+2025-08-23 20:08:08,494 - INFO - Completed enhanced browsing with 5 activities
+2025-08-23 20:08:08,495 - INFO - Enhanced search session completed: ✅ SUCCESS
+2025-08-23 20:08:08,495 - INFO - Duration: 76.8s, Activities: 5
+2025-08-23 20:08:08,888 - INFO - ✅ SUCCESS: 76.8s, 5 human-like activities
+2025-08-23 20:08:08,888 - INFO - 🔄 Used enhanced fallback implementations
+2025-08-23 20:08:08,888 - INFO - 🎭 Final state: neutral, 4 cognitive actions
+2025-08-23 20:08:08,888 - INFO - ⏱️ Waiting 127s before next search...
+2025-08-24 15:25:44,749 - INFO - 🔄 Using enhanced fallback implementations
+2025-08-24 15:25:44,756 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-24 15:25:44,756 - INFO - Validated 3 search tasks
+2025-08-24 15:25:44,756 - INFO - Starting 3 enhanced search simulations
+2025-08-24 15:25:44,756 - INFO - Models available: False
+2025-08-24 15:25:44,756 - INFO - Enhanced features: Human-like hovering, realistic browsing patterns
+2025-08-24 15:25:44,757 - INFO - 
+============================================================
+2025-08-24 15:25:44,757 - INFO - Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-24 15:25:44,757 - INFO - Persona: Casual Surfer (casual_browser)
+2025-08-24 15:25:44,757 - INFO - Traits: fast browsing, 0.6 hover tendency
+2025-08-24 15:25:44,757 - INFO - Starting enhanced search session with Casual Surfer
+2025-08-24 15:25:44,758 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-24 15:25:44,758 - INFO - Persona traits: fast speed, short attention
+2025-08-24 15:25:57,477 - ERROR - Enhanced search simulation error: 'tablet'
+2025-08-24 15:25:57,477 - INFO - ⏱️ Waiting 230s before next search...
+2025-08-24 15:29:47,490 - INFO - 
+============================================================
+2025-08-24 15:29:47,491 - INFO - Search 2/3: 'causes lip swelling smileee' -> https://smileee.co.uk/
+2025-08-24 15:29:47,491 - INFO - Persona: Tech Expert (tech_savvy)
+2025-08-24 15:29:47,491 - INFO - Traits: fast browsing, 0.8 hover tendency
+2025-08-24 15:29:47,491 - INFO - Starting enhanced search session with Tech Expert
+2025-08-24 15:29:47,491 - INFO - Query: 'causes lip swelling smileee' -> Target: https://smileee.co.uk/
+2025-08-24 15:29:47,492 - INFO - Persona traits: fast speed, medium attention
+2025-08-24 15:29:48,676 - INFO - Navigating to Google with human-like timing
+2025-08-24 15:29:54,618 - INFO - Performing enhanced search for: 'causes lip swelling smileee'
+2025-08-24 15:30:03,169 - INFO - Analyzing SERP with enhanced human-like behavior
+2025-08-24 15:30:29,506 - INFO - Visiting target site with enhanced human-like behavior
+2025-08-24 15:30:33,270 - INFO - Reached: https://smileee.co.uk/lip-swelling-and-tingling/
+2025-08-24 15:30:33,309 - INFO - Executing 397s of enhanced human-like browsing
+2025-08-24 15:30:46,633 - INFO - Enhanced USimAgent decided to stop browsing
+2025-08-24 15:30:46,633 - INFO - Completed enhanced browsing with 2 activities
+2025-08-24 15:30:46,634 - INFO - Enhanced search session completed: ✅ SUCCESS
+2025-08-24 15:30:46,634 - INFO - Duration: 59.1s, Activities: 6
+2025-08-24 15:30:47,031 - INFO - ✅ SUCCESS: 59.1s, 6 human-like activities
+2025-08-24 15:30:47,031 - INFO - 🔄 Used enhanced fallback implementations
+2025-08-24 15:30:47,031 - INFO - 🎭 Final state: neutral, 1 cognitive actions
+2025-08-24 15:30:47,031 - INFO - ⏱️ Waiting 162s before next search...
+2025-08-24 21:14:55,278 - INFO - 🔄 Using enhanced fallback implementations
+2025-08-24 21:14:55,291 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-24 21:14:55,291 - INFO - Validated 3 search tasks
+2025-08-24 21:14:55,292 - INFO - Starting 3 enhanced search simulations
+2025-08-24 21:14:55,292 - INFO - Models available: False
+2025-08-24 21:14:55,292 - INFO - 
+============================================================
+2025-08-24 21:14:55,292 - INFO - Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-24 21:14:55,292 - INFO - Persona: Dr. Academic (researcher)
+2025-08-24 21:15:04,314 - INFO - Navigating to Google with human-like timing
+2025-08-24 21:15:09,664 - INFO - Performing enhanced search for: 'supply list 2024-2025'
+2025-08-24 21:15:20,467 - INFO - Analyzing SERP with enhanced human-like behavior
+2025-08-24 21:16:10,937 - INFO - Enhanced search session completed: ❌ FAILED
+2025-08-24 21:16:11,245 - INFO - ❌ FAILED: Unknown error
+2025-08-24 21:16:11,245 - INFO - ⏱️ Waiting 211s before next search...
+2025-08-24 21:19:42,249 - INFO - 
+============================================================
+2025-08-24 21:19:42,249 - INFO - Search 2/3: 'causes lip swelling smileee' -> https://smileee.co.uk/
+2025-08-24 21:19:42,250 - INFO - Persona: Casual Surfer (casual_browser)
+2025-08-24 21:19:43,083 - INFO - Navigating to Google with human-like timing
+2025-08-24 21:19:50,045 - INFO - Performing enhanced search for: 'causes lip swelling smileee'
+2025-08-24 21:19:58,313 - INFO - Analyzing SERP with enhanced human-like behavior
+2025-08-24 21:20:31,262 - INFO - Visiting target site with enhanced human-like behavior
+2025-08-24 21:20:33,692 - INFO - Reached: https://smileee.co.uk/lip-swelling-and-tingling/
+2025-08-24 21:20:33,735 - INFO - Executing 42s of enhanced human-like browsing
+2025-08-24 21:20:39,664 - INFO - Enhanced USimAgent decided to stop browsing
+2025-08-24 21:20:39,665 - INFO - Completed enhanced browsing with 2 activities
+2025-08-24 21:20:39,665 - INFO - Enhanced search session completed: ✅ SUCCESS
+2025-08-24 21:20:40,066 - INFO - ✅ SUCCESS: 57.4s, 8 human-like activities
+2025-08-24 21:20:40,067 - INFO - ⏱️ Waiting 200s before next search...
+2025-08-26 00:07:36,851 - INFO - 🌐 Browser Backend: Browserless with ProxyJet
+2025-08-26 00:07:36,858 - INFO - 🔄 Using enhanced fallback implementations
+2025-08-26 00:07:36,858 - INFO - 🌐 Initializing Browserless connection (Proxy: ON)
+2025-08-26 00:07:36,874 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-26 00:07:36,874 - INFO - Validated 3 search tasks
+2025-08-26 00:07:36,874 - INFO - 🚀 Starting 3 enhanced search simulations using Browserless
+2025-08-26 00:07:36,874 - INFO - 🧠 Models available: False
+2025-08-26 00:07:36,874 - INFO - 🔗 Using proxy: proxy-jet.io:1010
+2025-08-26 00:07:36,874 - INFO - 🚀 Creating Browserbase session...
+2025-08-26 00:07:38,387 - ERROR - ❌ Failed to create Browserbase session
+2025-08-26 00:07:38,387 - ERROR - Status: 401
+2025-08-26 00:07:38,387 - ERROR - Response: {"statusCode":401,"error":"Unauthorized","message":"Unauthorized"}
+2025-08-26 00:07:38,388 - ERROR - ❌ Failed to create Browserless session, falling back to Chromium
+2025-08-26 00:07:38,390 - INFO - 
+============================================================
+2025-08-26 00:07:38,390 - INFO - 🔍 Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-26 00:07:38,390 - INFO - 🎭 Persona: Dr. Academic (researcher)
+2025-08-26 00:07:38,390 - INFO - 🌐 Backend: Chromium
+2025-08-26 23:57:29,897 - INFO - 🌐 Browser Backend: Browserless with ProxyJet
+2025-08-26 23:57:29,903 - INFO - 🔄 Using enhanced fallback implementations
+2025-08-26 23:57:29,903 - INFO - 🌐 Initializing Browserless connection (Proxy: ON)
+2025-08-26 23:57:29,915 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-26 23:57:29,916 - INFO - Validated 3 search tasks
+2025-08-26 23:57:29,916 - INFO - 🚀 Starting 3 enhanced search simulations using Browserless
+2025-08-26 23:57:29,916 - INFO - 🧠 Models available: False
+2025-08-26 23:57:29,916 - INFO - 🔗 Using proxy: proxy-jet.io:1010
+2025-08-26 23:57:29,916 - INFO - 🚀 Creating Browserbase session with corrected authentication...
+2025-08-26 23:57:31,543 - ERROR - ❌ Failed to create Browserbase session
+2025-08-26 23:57:31,544 - ERROR - Status: 400
+2025-08-26 23:57:31,544 - ERROR - Response: {"statusCode":400,"error":"Bad Request","message":"Validation error: Unrecognized key(s) in object: 'browser', 'viewport'"}
+2025-08-26 23:57:31,545 - ERROR - ❌ Failed to create Browserless session, falling back to Chromium
+2025-08-26 23:57:31,561 - INFO - 
+============================================================
+2025-08-26 23:57:31,561 - INFO - 🔍 Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-26 23:57:31,561 - INFO - 🎭 Persona: Dr. Academic (researcher)
+2025-08-26 23:57:31,561 - INFO - 🌐 Backend: Chromium
+2025-08-26 23:58:58,906 - INFO - 🌐 Browser Backend: Browserless with ProxyJet
+2025-08-26 23:58:58,910 - INFO - 🔄 Using enhanced fallback implementations
+2025-08-26 23:58:58,910 - INFO - 🌐 Initializing Browserless connection (Proxy: ON)
+2025-08-26 23:58:58,910 - INFO - Loaded 3 search tasks from .\searches.json
+2025-08-26 23:58:58,911 - INFO - Validated 3 search tasks
+2025-08-26 23:58:58,911 - INFO - 🚀 Starting 3 enhanced search simulations using Browserless
+2025-08-26 23:58:58,911 - INFO - 🧠 Models available: False
+2025-08-26 23:58:58,911 - INFO - 🔗 Using proxy: proxy-jet.io:1010
+2025-08-26 23:58:58,911 - INFO - 🚀 Creating Browserbase session with corrected authentication...
+2025-08-26 23:59:00,307 - INFO - ✅ Browserbase session created successfully
+2025-08-26 23:59:00,307 - INFO - 📋 Session ID: 57e7e86c-bcc5-425c-ac8a-3c36990e3ba0
+2025-08-26 23:59:00,307 - INFO - 🔗 Status: RUNNING
+2025-08-26 23:59:00,309 - INFO - 
+============================================================
+2025-08-26 23:59:00,309 - INFO - 🔍 Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-26 23:59:00,309 - INFO - 🎭 Persona: Dr. Academic (researcher)
+2025-08-26 23:59:00,309 - INFO - 🌐 Backend: Browserless
+2025-08-26 23:59:09,213 - INFO - 🔌 Connecting to Browserbase session...
+2025-08-26 23:59:14,994 - INFO - ✅ Successfully connected to Browserbase session
+2025-08-26 23:59:14,994 - INFO - Navigating to Google with human-like timing
+2025-08-26 23:59:18,920 - INFO - Performing enhanced search for: 'supply list 2024-2025'
+2025-08-26 23:59:53,536 - INFO - Analyzing SERP with enhanced human-like behavior
+2025-08-26 23:59:57,495 - INFO - 🛑 Closing Browserbase session: 57e7e86c-bcc5-425c-ac8a-3c36990e3ba0

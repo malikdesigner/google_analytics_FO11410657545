@@ -1,0 +1,73 @@
+2025-08-21 01:51:05,838 - INFO - 🔄 Initializing pre-trained models...
+2025-08-21 01:51:05,838 - WARNING - Models not available, using fallback implementations
+2025-08-21 01:51:05,838 - WARNING - ⚠️ Using fallback implementations
+2025-08-21 01:51:05,851 - INFO - Loaded 3 search tasks from searches.json
+2025-08-21 01:51:05,851 - INFO - Validated 3 search tasks
+2025-08-21 01:51:05,851 - INFO - Starting 3 AI-enhanced search simulations
+2025-08-21 01:51:05,852 - INFO - 🔄 Using rule-based fallback implementations
+2025-08-21 01:51:05,852 - INFO - 
+Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-21 01:51:05,852 - INFO - Using persona: Casual Surfer (casual_browser)
+2025-08-21 01:51:05,852 - INFO - 🔄 Using rule-based USimAgent fallback
+2025-08-21 01:51:05,852 - INFO - 🔄 Using rule-based AutoWebGLM fallback
+2025-08-21 01:51:05,852 - INFO - Starting enhanced search session with Casual Surfer persona
+2025-08-21 01:51:05,852 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-21 01:51:05,852 - INFO - 🔄 Using rule-based fallback implementations
+2025-08-21 01:51:06,179 - WARNING - playwright-stealth not available
+2025-08-21 01:51:18,239 - ERROR - AI-enhanced search simulation error: 'tablet'
+2025-08-21 01:51:18,241 - INFO - Waiting 192s before next search...
+2025-08-21 16:26:32,760 - INFO - 🔄 Initializing pre-trained models...
+2025-08-21 16:26:32,760 - WARNING - Models not available, using fallback implementations
+2025-08-21 16:26:32,760 - WARNING - ⚠️ Using fallback implementations
+2025-08-21 16:26:32,768 - INFO - Loaded 3 search tasks from searches.json
+2025-08-21 16:26:32,768 - INFO - Validated 3 search tasks
+2025-08-21 16:26:32,768 - INFO - Starting 3 AI-enhanced search simulations
+2025-08-21 16:26:32,768 - INFO - 🔄 Using rule-based fallback implementations
+2025-08-21 16:26:32,769 - INFO - 
+Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-21 16:26:32,770 - INFO - Using persona: Dr. Academic (researcher)
+2025-08-21 16:26:32,770 - INFO - 🔄 Using rule-based USimAgent fallback
+2025-08-21 16:26:32,770 - INFO - 🔄 Using rule-based AutoWebGLM fallback
+2025-08-21 16:26:32,770 - INFO - Starting enhanced search session with Dr. Academic persona
+2025-08-21 16:26:32,771 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-21 16:26:32,771 - INFO - 🔄 Using rule-based fallback implementations
+2025-08-21 16:26:33,212 - WARNING - playwright-stealth not available
+2025-08-21 16:26:45,610 - INFO - Enhanced navigation to Google
+2025-08-21 16:26:50,513 - INFO - AI-powered search for: 'supply list 2024-2025'
+2025-08-21 16:26:57,078 - INFO - AI-powered SERP interaction
+2025-08-21 16:27:03,923 - INFO - AI-powered site visit: https://getschoolsupplieslist.com/
+2025-08-21 16:27:05,294 - INFO - Reached: https://www.google.com/search?q=supply+list+2024-2025&sca_esv=892b6d78acac2e62&source=hp&ei=dQKnaPOzEtPgkdUPp-vj8Qw&iflsig=AOw8s4IAAAAAaKcQhRKBSi-UTcS8VWOekfKbaeRC40jq&ved=0ahUKEwizwonq5ZuPAxVTcKQEHaf1OM4Q4dUDCA0&uact=5&oq=supply+list+2024-2025&gs_lp=Egdnd3Mtd2l6IhVzdXBwbHkgbGlzdCAyMDI0LTIwMjUyBRAAGO8FMggQABiABBiiBDIIEAAYogQYiQUyCBAAGIAEGKIESPMxUNYHWKUwcAJ4AJABAZgBgwKgAeolqgEEMi0yMbgBA8gBAPgBAZgCFqACvSSoAgrCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICCxAAGIAEGLEDGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgUQABiABMICCxAuGIAEGLEDGNQCwgIIEC4YgAQYsQPCAg4QLhiABBixAxjHARivAcICChAAGIAEGEYY_wHCAgYQABgWGB7CAggQABgWGAoYHpgDBvEFNqiAQTOfMsKSBwYyLjAuMjCgB72EAbIHBDItMjC4B7UkwgcGMi4xOC4yyAcm&sclient=gws-wiz&sei=gAKnaPrSG6OO9u8P1dfvCA&zx=1755775619284&no_sw_cr=1
+2025-08-21 16:27:05,309 - INFO - Executing 517s of AI-powered browsing
+2025-08-21 16:29:14,804 - INFO - Completed AI browsing with 21 activities
+2025-08-21 16:29:14,805 - INFO - Enhanced search session completed: True
+2025-08-21 16:29:15,313 - INFO - ✅ Success: 162.0s
+2025-08-21 16:29:15,313 - INFO - 🧠 Models: USimAgent=False, AutoWebGLM=False
+2025-08-21 16:29:15,314 - INFO - Waiting 192s before next search...
+2025-08-21 16:32:27,320 - INFO - 
+Search 2/3: 'causes lip swelling smileee' -> https://smileee.co.uk/
+2025-08-21 16:32:27,321 - INFO - Using persona: Casual Surfer (casual_browser)
+2025-08-21 16:32:27,322 - INFO - 🔄 Using rule-based USimAgent fallback
+2025-08-21 16:32:27,322 - INFO - 🔄 Using rule-based AutoWebGLM fallback
+2025-08-21 16:32:27,323 - INFO - Starting enhanced search session with Casual Surfer persona
+2025-08-21 16:32:27,323 - INFO - Query: 'causes lip swelling smileee' -> Target: https://smileee.co.uk/
+2025-08-21 16:32:27,324 - INFO - 🔄 Using rule-based fallback implementations
+2025-08-21 16:32:27,325 - WARNING - playwright-stealth not available
+2025-08-21 16:32:28,313 - INFO - Enhanced navigation to Google
+2025-08-21 16:59:50,882 - INFO - 🔄 Initializing pre-trained models...
+2025-08-21 16:59:50,882 - WARNING - Models not available, using fallback implementations
+2025-08-21 16:59:50,883 - WARNING - ⚠️ Using fallback implementations
+2025-08-21 16:59:50,883 - INFO - Loaded 3 search tasks from searches.json
+2025-08-21 16:59:50,883 - INFO - Validated 3 search tasks
+2025-08-21 16:59:50,883 - INFO - Starting 3 AI-enhanced search simulations
+2025-08-21 16:59:50,883 - INFO - 🔄 Using rule-based fallback implementations
+2025-08-21 16:59:50,884 - INFO - 
+Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-21 16:59:50,884 - INFO - Using persona: Dr. Academic (researcher)
+2025-08-21 16:59:50,884 - INFO - 🔄 Using rule-based USimAgent fallback
+2025-08-21 16:59:50,884 - INFO - 🔄 Using rule-based AutoWebGLM fallback
+2025-08-21 16:59:50,884 - INFO - Starting enhanced search session with Dr. Academic persona
+2025-08-21 16:59:50,884 - INFO - Query: 'supply list 2024-2025' -> Target: https://getschoolsupplieslist.com/
+2025-08-21 16:59:50,884 - INFO - 🔄 Using rule-based fallback implementations
+2025-08-21 16:59:50,903 - WARNING - playwright-stealth not available
+2025-08-21 16:59:51,965 - INFO - Enhanced navigation to Google
+2025-08-21 16:59:57,984 - INFO - AI-powered search for: 'supply list 2024-2025'

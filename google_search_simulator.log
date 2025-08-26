@@ -1,0 +1,293 @@
+2025-08-16 23:25:38,333 - ERROR - Main execution error: name 'JSONSearchProcessor' is not defined
+2025-08-16 23:31:43,438 - INFO - [FILE] Loaded 3 search tasks from .\searches.json
+2025-08-16 23:31:43,438 - INFO - [START] Starting 3 search simulations
+2025-08-16 23:31:43,439 - INFO - [TIME] Estimated total time: 24.0 minutes
+2025-08-16 23:31:43,439 - INFO - 
+[POS] Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-16 23:31:43,439 - INFO - [SEARCH] Starting search session: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-16 23:31:43,439 - INFO - [INTENT] User intent: informational
+2025-08-16 23:31:43,454 - WARNING - [WARN] playwright-stealth not available. Install: pip install playwright-stealth
+2025-08-16 23:31:44,573 - INFO - [WEB] Navigating to Google
+2025-08-16 23:31:49,335 - INFO - [TYPE] Typing search query: 'supply list 2024-2025'
+2025-08-16 23:32:00,008 - INFO - [LOOK] Analyzing SERP results
+2025-08-16 23:32:08,446 - INFO - [MOUSE] Hovering on 2 other results first
+2025-08-16 23:32:13,273 - INFO - [MOUSE] Successfully hovered on 2 results
+2025-08-16 23:32:13,278 - INFO - [SEARCH] Looking for target domain: getschoolsupplieslist.com
+2025-08-16 23:32:23,288 - WARNING - [WARN] Standard result selector not found
+2025-08-16 23:32:23,965 - INFO - [OK] Found visible target result: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:32:23,966 - INFO - [TARGET] Hovering on target result
+2025-08-16 23:32:29,694 - WARNING - [WARN] Hover failed, will proceed to click: Locator.hover: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a[href*='getschoolsupplieslist.com']:visible").first
+    - locator resolved to <a ahbak="true" tabindex="-1" class="KEVENd" data-tibak="none" aria-hidden="true" data-hveid="CDMQDg" aria-label="Back to School Supplies List for All Grades | 2025-26 ..." href="https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school." ping="/url?sa=t&source=web&rct=j&opi=89978449&url=https://getschoolsupplieslist.com/%23:~:text%3DWide%2520ruled%2520loose%2520leaf%2520paper,first%2520day%2520of%2520the%2520school.&ved=2ahUKEwi5opHG-4-PAxW1h_…>…</a>
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    9 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+
+2025-08-16 23:32:29,697 - INFO - [WAIT] Waiting 2.0s before clicking target
+2025-08-16 23:32:31,685 - INFO - [TARGET] Attempting to click: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:32:32,309 - INFO - [TARGET] Trying regular click...
+2025-08-16 23:33:02,398 - INFO - [WARN] Regular click failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("a[href*='getschoolsupplieslist.com']:visible").first
+    - locator resolved to <a ahbak="true" tabindex="-1" class="KEVENd" data-tibak="none" aria-hidden="true" data-hveid="CDMQDg" aria-label="Back to School Supplies List for All Grades | 2025-26 ..." href="https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school." ping="/url?sa=t&source=web&rct=j&opi=89978449&url=https://getschoolsupplieslist.com/%23:~:text%3DWide%2520ruled%2520loose%2520leaf%2520paper,first%2520day%2520of%2520the%2520school.&ved=2ahUKEwi5opHG-4-PAxW1h_…>…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2025-08-16 23:33:02,400 - INFO - [TARGET] Trying JavaScript click...
+2025-08-16 23:33:02,426 - INFO - [WARN] JS click didn't navigate to target. Current: https://www.google.com/search?q=supply+list+2024-2025&sca_esv=61ea740a643f67c2&source=hp&ei=kM6gaJ6kI8jU7M8P0rC-mAs&iflsig=AOw8s4IAAAAAaKDcoPTZwEhQkvSUl-9nQF8AB2vF7ss6&ved=0ahUKEwierLa_-4-PAxVIKvsDHVKYD7MQ4dUDCA0&uact=5&oq=supply+list+2024-2025&gs_lp=Egdnd3Mtd2l6IhVzdXBwbHkgbGlzdCAyMDI0LTIwMjUyBRAAGO8FMgUQABjvBTIIEAAYogQYiQUyBRAAGO8FMgUQABjvBUjxQlCeDlj-MXABeACQAQCYAYsCoAGIJaoBBDItMjG4AQPIAQD4AQGYAhagArAlqAIKwgIKEAAYAxjqAhiPAcICCxAAGIAEGLEDGIMBwgILEC4YgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICERAuGIAEGLEDGNEDGIMBGMcBwgIFEAAYgATCAg4QLhiABBixAxjRAxjHAcICBRAuGIAEwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICDhAuGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAg4QLhiABBjHARiOBRivAcICCxAuGIAEGMcBGK8BwgIGEAAYFhgewgIIEAAYFhgKGB7CAgUQIRifBZgDBPEFzJb2ipj-WyuSBwYxLjAuMjGgB7qaAbIHBDItMjG4B6wlwgcGMy4xNy4yyAcf&sclient=gws-wiz&sei=nc6gaNXsI8K79u8P3aGo-Ak
+2025-08-16 23:33:02,427 - INFO - [TARGET] Trying direct navigation...
+2025-08-16 23:33:11,099 - INFO - [OK] Navigation completed via direct goto
+2025-08-16 23:33:11,100 - INFO - [WEB] Visiting target site: https://getschoolsupplieslist.com/
+2025-08-16 23:33:13,322 - INFO - [POS] Current URL: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:33:13,322 - INFO - [OK] Successfully reached: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:33:13,335 - INFO - [PAGE] Page title: Back to School Supplies List for All Grades | 2025-26 Shopping Checklist
+2025-08-16 23:33:13,338 - INFO - [TIME] Planning to stay 108 seconds
+2025-08-16 23:34:53,382 - INFO - [OK] Search session completed: True
+2025-08-16 23:34:54,320 - INFO - [OK] Search completed: 5 steps, 189.9s
+2025-08-16 23:34:54,320 - INFO - [WAIT] Waiting 188 seconds before next search...
+2025-08-16 23:52:11,184 - INFO - [FILE] Loaded 3 search tasks from .\searches.json
+2025-08-16 23:52:11,185 - INFO - [START] Starting 3 search simulations
+2025-08-16 23:52:11,185 - INFO - [TIME] Estimated total time: 24.0 minutes
+2025-08-16 23:52:11,185 - INFO - 
+[POS] Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-16 23:52:11,185 - INFO - [SEARCH] Starting search session: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-16 23:52:11,185 - INFO - [INTENT] User intent: informational
+2025-08-16 23:52:11,201 - WARNING - [WARN] playwright-stealth not available. Install: pip install playwright-stealth
+2025-08-16 23:52:12,333 - INFO - [WEB] Navigating to Google
+2025-08-16 23:52:17,074 - INFO - [TYPE] Typing search query: 'supply list 2024-2025'
+2025-08-16 23:52:28,500 - INFO - [LOOK] Analyzing SERP results
+2025-08-16 23:52:37,291 - INFO - [MOUSE] Hovering on 2 other results first
+2025-08-16 23:52:42,103 - INFO - [MOUSE] Successfully hovered on 2 results
+2025-08-16 23:52:42,103 - INFO - [SEARCH] Looking for target domain: getschoolsupplieslist.com
+2025-08-16 23:52:52,113 - WARNING - [WARN] Standard result selector not found
+2025-08-16 23:52:52,805 - INFO - [OK] Found visible target result: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:52:52,806 - INFO - [TARGET] Hovering on target result
+2025-08-16 23:52:58,612 - WARNING - [WARN] Hover failed, will proceed to click: Locator.hover: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a[href*='getschoolsupplieslist.com']:visible").first
+    - locator resolved to <a ahbak="true" tabindex="-1" class="KEVENd" data-tibak="none" aria-hidden="true" data-hveid="CEYQDg" aria-label="Back to School Supplies List for All Grades | 2025-26 ..." href="https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school." ping="/url?sa=t&source=web&rct=j&opi=89978449&url=https://getschoolsupplieslist.com/%23:~:text%3DWide%2520ruled%2520loose%2520leaf%2520paper,first%2520day%2520of%2520the%2520school.&ved=2ahUKEwiM3PePgJCPAxX-h_…>…</a>
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+  2 × retrying hover action
+      - waiting 100ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div jsname="P9ya7d" class="Xx7Mif E5eFb CTOaxb zLSRge">…</div> from <span data-h="72" data-mode="6" data-ad="50ms" data-cls="VHFyob" jscontroller="Zby8rf" class="LoygGf VHFyob" data-ae="cubic-bezier(0,0,1,1)" jsaction="rcuQ6b:npT2md;MDuPYe:pcqARd">…</span> subtree intercepts pointer events
+  2 × retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div jsname="P9ya7d" class="Xx7Mif E5eFb CTOaxb zLSRge">…</div> from <span data-h="72" data-mode="6" data-ad="50ms" data-cls="VHFyob" jscontroller="Zby8rf" class="LoygGf VHFyob" data-ae="cubic-bezier(0,0,1,1)" jsaction="rcuQ6b:npT2md;MDuPYe:pcqARd">…</span> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div jsname="P9ya7d" class="Xx7Mif E5eFb CTOaxb zLSRge">…</div> from <span data-h="72" data-mode="6" data-ad="50ms" data-cls="VHFyob" jscontroller="Zby8rf" class="LoygGf VHFyob" data-ae="cubic-bezier(0,0,1,1)" jsaction="rcuQ6b:npT2md;MDuPYe:pcqARd">…</span> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+
+2025-08-16 23:52:58,616 - INFO - [WAIT] Waiting 4.2s before clicking target
+2025-08-16 23:53:02,864 - INFO - [TARGET] Attempting to click: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:53:03,536 - INFO - [TARGET] Trying regular click...
+2025-08-16 23:53:33,680 - INFO - [WARN] Regular click failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("a[href*='getschoolsupplieslist.com']:visible").first
+    - locator resolved to <a ahbak="true" tabindex="-1" class="KEVENd" data-tibak="none" aria-hidden="true" data-hveid="CEYQDg" aria-label="Back to School Supplies List for All Grades | 2025-26 ..." href="https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school." ping="/url?sa=t&source=web&rct=j&opi=89978449&url=https://getschoolsupplieslist.com/%23:~:text%3DWide%2520ruled%2520loose%2520leaf%2520paper,first%2520day%2520of%2520the%2520school.&ved=2ahUKEwiM3PePgJCPAxX-h_…>…</a>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div jsname="P9ya7d" class="Xx7Mif E5eFb CTOaxb zLSRge">…</div> from <span data-h="72" data-mode="6" data-ad="50ms" data-cls="VHFyob" jscontroller="Zby8rf" class="LoygGf VHFyob" data-ae="cubic-bezier(0,0,1,1)" jsaction="rcuQ6b:npT2md;MDuPYe:pcqARd">…</span> subtree intercepts pointer events
+  - retrying click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+  - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div jsname="P9ya7d" class="Xx7Mif E5eFb CTOaxb zLSRge">…</div> from <span data-h="72" data-mode="6" data-ad="50ms" data-cls="VHFyob" jscontroller="Zby8rf" class="LoygGf VHFyob" data-ae="cubic-bezier(0,0,1,1)" jsaction="rcuQ6b:npT2md;MDuPYe:pcqARd">…</span> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div aria-hidden="true" jsaction="trigger.OiPALb" class="RDmXvc Jzkafd LrrQLb"></div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div jsname="P9ya7d" class="Xx7Mif E5eFb CTOaxb zLSRge">…</div> from <span data-h="72" data-mode="6" data-ad="50ms" data-cls="VHFyob" jscontroller="Zby8rf" class="LoygGf VHFyob" data-ae="cubic-bezier(0,0,1,1)" jsaction="rcuQ6b:npT2md;MDuPYe:pcqARd">…</span> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div jsname="P9ya7d" class="Xx7Mif E5eFb CTOaxb zLSRge">…</div> from <span data-h="72" data-mode="6" data-ad="50ms" data-cls="VHFyob" jscontroller="Zby8rf" class="LoygGf VHFyob" data-ae="cubic-bezier(0,0,1,1)" jsaction="rcuQ6b:npT2md;MDuPYe:pcqARd">…</span> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+2025-08-16 23:53:33,685 - INFO - [TARGET] Trying JavaScript click...
+2025-08-16 23:53:33,702 - INFO - [WARN] JS click didn't navigate to target. Current: https://www.google.com/search?q=supply+list+2024-2025&sca_esv=61ea740a643f67c2&source=hp&ei=W9OgaOn6PJq8i-gP-cTCUQ&iflsig=AOw8s4IAAAAAaKDhbCce95SZTYyr0q_idfrKoolnbpCM&ved=0ahUKEwiplNqIgJCPAxUa3gIHHXmiMAoQ4dUDCA0&uact=5&oq=supply+list+2024-2025&gs_lp=Egdnd3Mtd2l6IhVzdXBwbHkgbGlzdCAyMDI0LTIwMjUyBRAAGO8FMgUQABjvBTIIEAAYogQYiQUyBRAAGO8FMgUQABjvBUjeSlDvDliqPXABeACQAQCYAdsCoAGUJ6oBBjItMjAuMbgBA8gBAPgBAZgCFqACvieoAgrCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGLEDGIMBwgILEC4YgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICERAuGIAEGLEDGNEDGIMBGMcBwgIFEAAYgATCAg4QLhiABBixAxjRAxjHAcICBRAuGIAEwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICDhAuGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAg4QLhiABBjHARiOBRivAcICDhAAGIAEGLEDGIMBGMkDwgIIEAAYgAQYkgPCAgsQLhiABBjHARivAcICBhAAGBYYHsICCBAAGBYYChgewgIFECEYnwWYAwTxBexhAe8hb819kgcIMS4wLjIwLjGgB_SaAbIHBjItMjAuMbgHuSfCBwYzLjE4LjHIByA&sclient=gws-wiz&sei=atOgaMO0F5_l7_UPuILS-Qg
+2025-08-16 23:53:33,702 - INFO - [TARGET] Trying direct navigation...
+2025-08-16 23:53:39,942 - INFO - [OK] Navigation completed via direct goto
+2025-08-16 23:53:39,943 - INFO - [WEB] Visiting target site: https://getschoolsupplieslist.com/
+2025-08-16 23:53:41,594 - INFO - [POS] Current URL: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:53:41,594 - INFO - [OK] Successfully reached: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-16 23:53:41,603 - INFO - [PAGE] Page title: Back to School Supplies List for All Grades | 2025-26 Shopping Checklist
+2025-08-16 23:53:41,603 - INFO - [TIME] Planning to stay 109 seconds
+2025-08-16 23:53:41,604 - INFO - [SITE] Starting 109s of realistic browsing activities
+2025-08-16 23:53:46,169 - INFO - [ACTIVITY] Performing: hover_and_explore
+2025-08-16 23:54:25,052 - INFO - [ACTIVITY] Performing: click_internal_links
+2025-08-16 23:54:27,461 - INFO - [CLICK] Clicking internal link: School Supplies -> https://getschoolsupplieslist.com/
+2025-08-16 23:55:02,633 - INFO - [ACTIVITY] Performing: mouse_exploration
+2025-08-16 23:55:23,747 - INFO - [SITE] Completed 5 activities: initial_reading, hover_explore, clicked_link, went_back, mouse_exploration
+2025-08-16 23:55:23,748 - INFO - [OK] Search session completed: True
+2025-08-16 23:55:24,395 - INFO - [OK] Search completed: 5 steps, 192.6s
+2025-08-16 23:55:24,396 - INFO - [WAIT] Waiting 180 seconds before next search...
+2025-08-17 00:07:09,751 - INFO - [FILE] Loaded 3 search tasks from .\searches.json
+2025-08-17 00:07:09,751 - INFO - [START] Starting 3 search simulations
+2025-08-17 00:07:09,751 - INFO - [TIME] Estimated total time: 24.0 minutes
+2025-08-17 00:07:09,751 - INFO - 
+[POS] Search 1/3: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-17 00:07:09,751 - INFO - [SEARCH] Starting search session: 'supply list 2024-2025' -> https://getschoolsupplieslist.com/
+2025-08-17 00:07:09,751 - INFO - [INTENT] User intent: informational
+2025-08-17 00:07:09,762 - WARNING - [WARN] playwright-stealth not available. Install: pip install playwright-stealth
+2025-08-17 00:07:10,788 - INFO - [WEB] Navigating to Google
+2025-08-17 00:07:15,783 - INFO - [TYPE] Typing search query: 'supply list 2024-2025'
+2025-08-17 00:07:29,132 - INFO - [LOOK] Analyzing SERP results
+2025-08-17 00:07:38,090 - INFO - [MOUSE] Hovering on 3 other results first
+2025-08-17 00:07:42,186 - INFO - [MOUSE] Successfully hovered on 3 results
+2025-08-17 00:07:42,187 - INFO - [SEARCH] Looking for target domain: getschoolsupplieslist.com
+2025-08-17 00:07:52,207 - WARNING - [WARN] Standard result selector not found
+2025-08-17 00:07:52,951 - INFO - [OK] Found visible target result: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-17 00:07:52,951 - INFO - [TARGET] Hovering on target result
+2025-08-17 00:07:55,868 - INFO - [WAIT] Waiting 3.5s before clicking target
+2025-08-17 00:07:59,353 - INFO - [TARGET] Attempting to click: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-17 00:08:00,055 - INFO - [TARGET] Trying regular click...
+2025-08-17 00:08:09,849 - INFO - [OK] Navigation completed via regular click
+2025-08-17 00:08:09,850 - INFO - [WEB] Visiting target site: https://getschoolsupplieslist.com/
+2025-08-17 00:08:11,774 - INFO - [POS] Current URL: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-17 00:08:11,775 - INFO - [OK] Successfully reached: https://getschoolsupplieslist.com/#:~:text=Wide%20ruled%20loose%20leaf%20paper,first%20day%20of%20the%20school.
+2025-08-17 00:08:11,786 - INFO - [PAGE] Page title: Back to School Supplies List for All Grades | 2025-26 Shopping Checklist
+2025-08-17 00:08:11,786 - INFO - [TIME] Planning to stay 146 seconds
+2025-08-17 00:08:11,787 - INFO - [SITE] Starting 146s of realistic browsing activities
+2025-08-17 00:08:18,417 - INFO - [ACTIVITY] Performing: menu_navigation
+2025-08-17 00:08:18,436 - INFO - [NAV] Exploring navigation: Reading
+2025-08-17 00:08:20,518 - INFO - [NAV] Exploring navigation: High School
+2025-08-17 00:08:22,677 - INFO - [ACTIVITY] Performing: hover_and_explore
+2025-08-17 00:08:30,930 - INFO - [ACTIVITY] Performing: scroll_and_read
+2025-08-17 00:08:34,992 - INFO - [ACTIVITY] Performing: form_interaction
+2025-08-17 00:08:35,015 - INFO - [ACTIVITY] Performing: hover_and_explore
+2025-08-17 00:08:41,727 - INFO - [ACTIVITY] Performing: search_on_site
+2025-08-17 00:08:41,742 - INFO - [ACTIVITY] Performing: form_interaction
+2025-08-17 00:08:41,763 - INFO - [ACTIVITY] Performing: form_interaction
+2025-08-17 00:08:41,787 - INFO - [ACTIVITY] Performing: click_internal_links
+2025-08-17 00:08:44,536 - INFO - [CLICK] Clicking internal link: Parent-Teacher Relationship -> https://getschoolsupplieslist.com/healthy-parent-teacher-partnerships/
+2025-08-17 00:08:54,717 - INFO - [ACTIVITY] Performing: click_internal_links
+2025-08-17 00:09:25,981 - INFO - [ACTIVITY] Performing: hover_and_explore
+2025-08-17 00:10:56,531 - INFO - [SITE] Completed 6 activities: initial_reading, menu_navigation, hover_explore, scroll_read, hover_explore, hover_explore
+2025-08-17 00:10:56,532 - INFO - [OK] Search session completed: True
+2025-08-17 00:10:57,768 - INFO - [OK] Search completed: 5 steps, 226.8s
+2025-08-17 00:10:57,769 - INFO - [WAIT] Waiting 174 seconds before next search...
+2025-08-17 00:13:51,783 - INFO - 
+[POS] Search 2/3: 'causes lip swelling smileee' -> https://smileee.co.uk/
+2025-08-17 00:13:51,784 - INFO - [SEARCH] Starting search session: 'causes lip swelling smileee' -> https://smileee.co.uk/
+2025-08-17 00:13:51,784 - INFO - [INTENT] User intent: informational
+2025-08-17 00:13:51,785 - WARNING - [WARN] playwright-stealth not available. Install: pip install playwright-stealth
+2025-08-17 00:13:52,791 - INFO - [WEB] Navigating to Google
+2025-08-17 00:13:57,847 - INFO - [TYPE] Typing search query: 'causes lip swelling smileee'
